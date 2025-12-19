@@ -8,6 +8,6 @@ Install pixi https://pixi.sh/latest/ Create a Pixi folder and run a terminal the
 
 Replace the empty toml file in that directory with the toml file in this repository?
 
-Run `pixi `install
+Run `pixi install`
 
-Run `pixi run `assistant
+Run `pixi run assistant`
